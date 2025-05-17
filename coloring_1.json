@@ -1,0 +1,20 @@
+{
+  "ads": {
+    "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+    "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+    "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
+    "showAds": true,
+    "interstitialFrequency": 3,
+    "minHoursBetweenAppOpenAds": 4
+  },
+  "appInfo": {
+    "privacyPolicyUrl": "https://pub.dev/",
+    "appStoreId": "animalcoloring",
+    "rateAfterLaunchCount": 5,
+    "ratePromptMinDays": 3,
+    "rateEveryNLaunches": 20,
+    "shareAppMessage": "Check out this amazing coloring animal app!",
+    "shareImageText": "Check out my amazing coloring creation from"
+  }
+}
