@@ -10,7 +10,7 @@
   },
   "appInfo": {
     "privacyPolicyUrl": "https://doc-hosting.flycricket.io/animal-art-magic-privacy-policy/8155cb57-baad-4cc9-831c-bfc7b78c01be/privacy",
-    "appStoreId": "animalcoloring",
+    "appStoreId": "com.mfagri.animal-art-magic",
     "rateAfterLaunchCount": 5,
     "ratePromptMinDays": 3,
     "rateEveryNLaunches": 20,
