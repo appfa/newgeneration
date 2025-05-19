@@ -1,0 +1,89 @@
+{
+  "app_name": "OceanWhale Wallpapers HD",
+  "app_icon": "assets/iconapp.jpg",
+  "cover": "assets/splash.jpeg",
+  "main_color": "#0FC0EC",
+  "contact": "contact@email.com",
+  "about": "https://pub.dev/packages/stacked_animated_list",
+  "privacy": "path_to",
+  "terms": "path_to",
+  "intro": [
+    {
+      "title": "Title 1",
+      "description": "Description 1",
+      "icon": "assets/onboarding1.jpeg"
+    },
+    {
+      "title": "Title 2",
+      "description": "Description 2",
+      "icon": "assets/onboarding2.jpeg"
+    },
+    {
+      "title": "Title 3",
+      "description": "Description 3",
+      "icon": "assets/onboarding3.jpeg"
+    }
+  ],
+  "wallpapers": [
+    {
+      "category": "Luca",
+      "icon": "https://i.pinimg.com/736x/64/d8/ac/64d8ac4f105d3c9499c443e15154eb0f.jpg",
+      "images": [
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg"
+      ]
+    },
+    {
+      "category": "Moana",
+      "icon": "https://i.pinimg.com/736x/64/d8/ac/64d8ac4f105d3c9499c443e15154eb0f.jpg",
+      "images": [
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg"
+      ]
+    },
+    {
+      "category": "Onward",
+      "icon": "https://i.pinimg.com/736x/64/d8/ac/64d8ac4f105d3c9499c443e15154eb0f.jpg",
+      "images": [
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg"
+      ]
+    },
+    {
+      "category": "The Good Dinausor",
+      "icon": "https://i.pinimg.com/736x/64/d8/ac/64d8ac4f105d3c9499c443e15154eb0f.jpg",
+      "images": [
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg",
+        "https://i.pinimg.com/736x/c4/15/00/c415002d3de269d7daedd424f5596f17.jpg"
+      ]
+    }
+  ],
+  "pinned": [
+    "https://i.pinimg.com/736x/ea/42/af/ea42afa67fbe31f281bf93850fd9625b.jpg",
+    "https://i.pinimg.com/736x/3f/47/8a/3f478af7ff0cd4e196d7c495d2b4107a.jpg",
+    "https://i.pinimg.com/736x/1b/b0/87/1bb08722d60841f804b0f6a797eef49f.jpg",
+    "https://i.pinimg.com/736x/ff/90/94/ff9094fc4dcff04e34bfec7bb10c1750.jpg",
+    "https://i.pinimg.com/736x/9d/4b/b0/9d4bb0c72183ed9b9e5ea631d2314331.jpg",
+    "https://i.pinimg.com/736x/76/4e/93/764e93d95d79e7a53a127bc878636d24.jpg"
+  ],
+  "ads": {
+    "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+    "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+    "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
+    "showAds": true,
+    "interstitialFrequency": 3,
+    "minHoursBetweenAppOpenAds": 4
+  },
+  "appInfo": {
+    "privacyPolicyUrl": "https://yourwebsite.com/privacy-policy",
+    "termsUrl": "https://yourwebsite.com/terms-of-service",
+    "appStoreId": "YOUR_APP_ID",
+    "rateAfterLaunchCount": 5,
+    "ratePromptMinDays": 3
+  }
+}
