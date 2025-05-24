@@ -75,7 +75,7 @@
     "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
     "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
     "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
-    "showAds": true,
+    "showAds": false,
     "interstitialFrequency": 3,
     "minHoursBetweenAppOpenAds": 4
   },
