@@ -8,22 +8,22 @@
   "privacy": "path_to",
   "terms": "path_to",
   "intro": [
-    {
-      "title": "Title 1",
-      "description": "Description 1",
-      "icon": "assets/onboarding1.jpeg"
-    },
-    {
-      "title": "Title 2",
-      "description": "Description 2",
-      "icon": "assets/onboarding2.jpeg"
-    },
-    {
-      "title": "Title 3",
-      "description": "Description 3",
-      "icon": "assets/onboarding3.jpeg"
-    }
-  ],
+  {
+    "title": "Explore Stunning Ocean Wallpapers",
+    "description": "Dive into a curated collection of HD ocean wallpapers, from deep sea mysteries to tropical beach vibes.",
+    "icon": "assets/onboarding1.jpeg"
+  },
+  {
+    "title": "Daily Fresh Content",
+    "description": "Enjoy new wallpapers every day to keep your device looking fresh and beautiful.",
+    "icon": "assets/onboarding2.jpeg"
+  },
+  {
+    "title": "Save & Share with Ease",
+    "description": "Download your favorite wallpapers or share them with friends directly from the app.",
+    "icon": "assets/onboarding3.jpeg"
+  }
+],
   "wallpapers": [
     {
       "category": "Ocean View",
