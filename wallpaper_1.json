@@ -1,12 +1,12 @@
 {
-  "app_name": "OceanWhale Wallpapers HD",
+  "app_name": "AnimeScape Wallpapers HD",
   "app_icon": "assets/iconapp.jpg",
   "cover": "assets/splash.jpeg",
   "main_color": "#0FC0EC",
-  "contact": "contact@email.com",
-  "about": "https://pub.dev/packages/stacked_animated_list",
-  "privacy": "path_to",
-  "terms": "path_to",
+  "contact": "marouane.fagri1@gmail.com",
+  "about": "https://sites.google.com/view/animescape-wallpapers-hd/home",
+  "privacy": "https://sites.google.com/view/animescape-wallpapers-hd/home",
+  "terms": "https://sites.google.com/view/animescape-wallpapers-hd/home",
   "intro": [
   {
     "title": "Explore Stunning Ocean Wallpapers",
