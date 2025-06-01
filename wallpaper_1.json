@@ -179,11 +179,11 @@
     "https://i.pinimg.com/236x/0d/54/88/0d548809129e0a87d31cd1b2985c2979.jpg"
   ],
   "ads": {
-    "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-    "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-    "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
-    "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
-    "showAds": false,
+    "bannerAdUnitId": "ca-app-pub-3568706209440001/4860104070",
+    "interstitialAdUnitId": "ca-app-pub-3568706209440001/7595686859",
+    "rewardedAdUnitId": "ca-app-pub-3568706209440001/6607691205",
+    "appOpenAdUnitId": "ca-app-pub-3568706209440001/6282605186",
+    "showAds": true,
     "interstitialFrequency": 3,
     "minHoursBetweenAppOpenAds": 4
   },
