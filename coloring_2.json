@@ -9,12 +9,12 @@
     "minHoursBetweenAppOpenAds": 4
   },
   "appInfo": {
-    "privacyPolicyUrl": "https://sites.google.com/view/animal-art-magic/home",
+    "privacyPolicyUrl": "https://sites.google.com/view/tung-tung-coloring-book-privac/home",
     "appStoreId": "id6746093845",
     "rateAfterLaunchCount": 5,
     "ratePromptMinDays": 3,
     "rateEveryNLaunches": 20,
-    "shareAppMessage": "Check out this amazing coloring animal app!",
+    "shareAppMessage": "Check out this amazing coloring app!",
     "shareImageText": "Check out my amazing coloring creation from"
   }
 }
