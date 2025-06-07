@@ -1,0 +1,20 @@
+{
+  "ads": {
+    "bannerAdUnitId": "ca-app-pub-3568706209440001/5406026849",
+    "interstitialAdUnitId": "ca-app-pub-3568706209440001/8059869097",
+    "rewardedAdUnitId": "ca-app-pub-3568706209440001/7595166361",
+    "appOpenAdUnitId": "ca-app-pub-3568706209440001/6375252338",
+    "showAds": false,
+    "interstitialFrequency": 3,
+    "minHoursBetweenAppOpenAds": 4
+  },
+  "appInfo": {
+    "privacyPolicyUrl": "https://sites.google.com/view/animal-art-magic/home",
+    "appStoreId": "id6746093845",
+    "rateAfterLaunchCount": 5,
+    "ratePromptMinDays": 3,
+    "rateEveryNLaunches": 20,
+    "shareAppMessage": "Check out this amazing coloring animal app!",
+    "shareImageText": "Check out my amazing coloring creation from"
+  }
+}
