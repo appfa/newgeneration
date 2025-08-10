@@ -1,0 +1,72 @@
+{
+  "app_name": "AnimeScape Wallpapers HD",
+  "app_icon": "assets/iconapp.jpg",
+  "cover": "assets/splash.jpeg",
+  "main_color": "#0FC0EC",
+  "contact": "marouane.fagri1@gmail.com",
+  "about": "https://sites.google.com/view/animescape-wallpapers-hd/home",
+  "privacy": "https://sites.google.com/view/animescape-wallpapers-hd/home",
+  "terms": "https://sites.google.com/view/animescape-wallpapers-hd/home",
+  "intro": [
+  {
+    "title": "Explore Stunning Ocean Wallpapers",
+    "description": "Dive into a curated collection of HD ocean wallpapers, from deep sea mysteries to tropical beach vibes.",
+    "icon": "assets/onboarding1.jpeg"
+  },
+  {
+    "title": "Daily Fresh Content",
+    "description": "Enjoy new wallpapers every day to keep your device looking fresh and beautiful.",
+    "icon": "assets/onboarding2.jpeg"
+  },
+  {
+    "title": "Save & Share with Ease",
+    "description": "Download your favorite wallpapers or share them with friends directly from the app.",
+    "icon": "assets/onboarding3.jpeg"
+  }
+],
+  "wallpapers": [
+    {
+      "category": "Ocean View",
+      "icon": "https://i.pinimg.com/736x/0f/cb/8c/0fcb8cd96597f4db2b7dcaecbb708d34.jpg",
+      "images": [
+      ]
+    },
+    {
+      "category": "Whales & Marine Life",
+      "icon": "https://i.pinimg.com/736x/8f/56/4f/8f564f3f295d640fa158ff839e10e4cf.jpg",
+      "images": [
+      ]
+    },
+    {
+      "category": "Sunrise & Sunset",
+      "icon": "https://i.pinimg.com/736x/dd/46/1c/dd461cf2b23a09d81fe407894d6d207b.jpg",
+      "images": [
+      ]
+    },
+    {
+      "category": "Cute Sea Creatures",
+      "icon": "https://i.pinimg.com/736x/bd/08/46/bd08467d883fe169a4e4f33b95719a84.jpg",
+      "images": [
+       
+      ]
+    }
+  ],
+  "pinned": [
+  ],
+  "ads": {
+    "bannerAdUnitId": "ca-app-pub-3568706209440001/4860104070",
+    "interstitialAdUnitId": "ca-app-pub-3568706209440001/7595686859",
+    "rewardedAdUnitId": "ca-app-pub-3568706209440001/6607691205",
+    "appOpenAdUnitId": "ca-app-pub-3568706209440001/6282605186",
+    "showAds": true,
+    "interstitialFrequency": 3,
+    "minHoursBetweenAppOpenAds": 4
+  },
+  "appInfo": {
+    "privacyPolicyUrl": "https://yourwebsite.com/privacy-policy",
+    "termsUrl": "https://yourwebsite.com/terms-of-service",
+    "appStoreId": "AIzaSyC6iEHJBnJIwbwosKJBDREaajUslJ4UoAc",
+    "rateAfterLaunchCount": 5,
+    "ratePromptMinDays": 3
+  }
+}
