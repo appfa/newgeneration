@@ -1,11 +1,11 @@
 {
   "ads": {
-    "bannerAdUnitId": "ca-app-pub-3568706209440001/5406026849",
-    "interstitialAdUnitId": "ca-app-pub-3568706209440001/8059869097",
+    "bannerAdUnitId": "ca-app-pub-3568706209440001/9135867025",
+    "interstitialAdUnitId": "ca-app-pub-3568706209440001/9634560476",
     "rewardedAdUnitId": "ca-app-pub-3568706209440001/7595166361",
     "time": "2",
     "click": "2",
-    "showAds": false
+    "showAds": true
   },
   "appInfo": {
     "privacyPolicyUrl": "https://sites.google.com/view/animal-art-magic/home"
